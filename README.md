@@ -1,16 +1,21 @@
-# MusicWIki
-Music Wiki app 
+# MusicWIki(Last.FM)
+Music Wiki application
 
-MusicWiki is an unofficial Last.fm app that contains information about different music genres,
-the albums, artists and tracks listed under the genre.
+MusicWiki is an unofficial Last.fm app that contains information about different music
+genres, the albums, artists and tracks listed under the genre.
 
-![](https://imgur.com/7Lw0W4K.png)
+API:
+All of the required information for building this app is available in the API provided by
+last.fm. You can get more information at https://www.last.fm/api
 
-![](https://imgur.com/1HugiqV.png)
 
-![](https://imgur.com/ucJZRWC.png)
+![](https://i.postimg.cc/c4B4RCpZ/1.jpg)
 
-![](https://imgur.com/UDPZ489.png)
+![]()
+
+![]()
+
+![]()
 
 
 
